@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://kamilq99.github.io/csb-jrc9n/static/js/main.de6ffd33.chunk.js",
+    "main.js.map": "https://kamilq99.github.io/csb-jrc9n/static/js/main.de6ffd33.chunk.js.map",
+    "runtime-main.js": "https://kamilq99.github.io/csb-jrc9n/static/js/runtime-main.cbed3a35.js",
+    "runtime-main.js.map": "https://kamilq99.github.io/csb-jrc9n/static/js/runtime-main.cbed3a35.js.map",
+    "static/js/2.6602f476.chunk.js": "https://kamilq99.github.io/csb-jrc9n/static/js/2.6602f476.chunk.js",
+    "static/js/2.6602f476.chunk.js.map": "https://kamilq99.github.io/csb-jrc9n/static/js/2.6602f476.chunk.js.map",
+    "index.html": "https://kamilq99.github.io/csb-jrc9n/index.html",
+    "precache-manifest.ae3d11a154c0fde0c6230482cbb0fc1f.js": "https://kamilq99.github.io/csb-jrc9n/precache-manifest.ae3d11a154c0fde0c6230482cbb0fc1f.js",
+    "service-worker.js": "https://kamilq99.github.io/csb-jrc9n/service-worker.js",
+    "static/js/2.6602f476.chunk.js.LICENSE.txt": "https://kamilq99.github.io/csb-jrc9n/static/js/2.6602f476.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbed3a35.js",
+    "static/js/2.6602f476.chunk.js",
+    "static/js/main.de6ffd33.chunk.js"
+  ]
+}
